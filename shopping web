@@ -1,0 +1,16 @@
+<html>
+<head.
+<title> Amazon </title>
+</head>
+<body bgcolor="sky blue"
+> <center>
+<strong> <h1>WELL COME TO  ONLINE SHOPING </h1> </strong>
+<form method="post' action="login.html" >
+<button onclick=""C:\Users\Vjit\Desktop\lab programs\Django\login.html">login</button>
+<source src="C:\Users\Vjit\Desktop\lab programs\Django\login.html">
+<a href="login">login</a>
+<h4></h4><input type="submit" value="LOGIN">
+</form>
+</center>
+</body>
+</html>
